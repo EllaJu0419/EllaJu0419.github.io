@@ -12,23 +12,13 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
 - **Xi'an Jiaotong-Liverpool University [Sept. 2019 –Jun. 2021]:** Bachelor of Engineering in Data Science and Big Data
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+## Research Experience
+- **[Aug. 2023–Oct. 2023] Chinese Academy of Sciences:** Summer 2023 Research
+- **[Jun. 2022–Sep. 2022] Student Summer Research Internship:** Utilizing Machine Learning for Caloric Estimation in Recipe Analysis
+- **[May. 2021–Sep. 2021] iFlytek Co., Ltd. Student Research Competition:** Development of AI-powered Autonomous Food Delivery Vehicle
+- **[Jun. 2019–Sep. 2019] Chinese Academy of Sciences:** Computer-Aided Repurposing of Pentostatin: A Novel Target Discovery Research
 
-
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %}
-
-
-
-
-
-
-
-## Collaboration
+## Project Experience
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
