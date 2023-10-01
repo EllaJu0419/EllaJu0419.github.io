@@ -5,13 +5,10 @@ title: Yaoxuan Ju
 position: Final Year Student in BSc (Hons) in Computer Science and Mathematics
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 affiliation: University of Manchester
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
+subaffiliation: Department of Computer Science  
+affiliation_link: https://www.manchester.ac.uk/
+subaffiliation_link: https://www.cs.manchester.ac.uk/
 email: yaoxuanju@student.manchester.ac.uk
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
-
 
 
 # Search Engine Optimization (SEO)
@@ -22,11 +19,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
 cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/EllaJu0419
+linkedin: www.linkedin.com/in/yaoxuan-ju-85a743231
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
