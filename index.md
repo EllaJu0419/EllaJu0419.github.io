@@ -7,11 +7,9 @@ layout: homepage
 I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/cm/" target="_blank"> Computer Science and Mathematics</a> at <a href="https://manchester.ac.uk/" target="_blank"> University of Manchester</a>.
 
 
-## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+## Eduaction
+- **University of Manchester [Sept. 2021–Present]:** Bachelor of Science in Computer Science and Mathematics
+- **Xi'an Jiaotong-Liverpool University [Sept. 2019 –Jun. 2021]:** Bachelor of Engineering in Data Science and Big Data
 
 
 ## Awards
