@@ -11,14 +11,10 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
 - **University of Manchester [Sept. 2021–Present]:** Bachelor of Science in Computer Science and Mathematics
 - **Xi'an Jiaotong-Liverpool University [Sept. 2019 –Jun. 2021]:** Bachelor of Engineering in Data Science and Big Data
 
-## Project Experience
-- **Machine Learning Course Projects:**Real-world Applications of Machine Learning
-- **Human-Robot Interaction (HRI) with Multimodality:**Final Project
-
 ## Awards
 - **B.Sc. Honours (Hons) Graduate of University of Manchester**
 
-<h2 id="Talks" style="margin: 2px 0px -15px;">Research Experience</h2>
+<h1 id="Talks" style="margin: 2px 0px -15px;">Research Experience</h1>
 
 <div class="publications">
 <ol class="bibliography">
@@ -94,6 +90,46 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
 </div>
 </li>
   
+
+</ol>
+</div>
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Project Experience</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Real-world Applications of Machine Learning</div>
+    <div class="author"><strong>Machine Learning Course Projects</strong></div>
+  </div>
+</div>
+</li>
+  
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Human-Robot Interaction (HRI) with Multimodality</a></div>
+    <div class="author"><strong>Final Year Project</strong></div>
+  </div>
+</div>
+</li>
+  
+<br>
 
 </ol>
 </div>
