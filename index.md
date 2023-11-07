@@ -20,3 +20,4 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
 
 ## Project Experience
 - **Machine Learning Course Projects:**Real-world Applications of Machine Learning
+- **Real-world Applications of Machine Learning
