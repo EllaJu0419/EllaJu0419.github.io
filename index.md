@@ -28,8 +28,8 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> Machine Learning for Protein Sequence Antimicrobial Prediction</div>
-    <div class="author"><strong> Chinese Academy of Sciences</strong></div>
+    <div class="title"><strong> Machine Learning for Protein Sequence Antimicrobial Prediction</strong></div>
+    <div class="author">Chinese Academy of Sciences</div>
     <div class="periodical"><em>Aug. 2023–Oct. 2023</em></div>
   </div>
 </div>
@@ -46,8 +46,8 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Utilizing Machine Learning for Caloric Estimation in Recipe Analysis</div>
-    <div class="author"><strong>Student Summer Research Internship</strong></div>
+    <div class="title"><strong>Utilizing Machine Learning for Caloric Estimation in Recipe Analysis</strong></div>
+    <div class="author">Student Summer Research Internship</div>
     <div class="periodical"><em>Jun. 2022–Sep. 2022</em></div>
   </div>
 </div>
@@ -64,8 +64,8 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> Development of AI-powered Autonomous Food Delivery Vehicle</div>
-    <div class="author"><strong> iFlytek Co., Ltd. Student Research Competition</strong></div>
+    <div class="title"> <strong> Development of AI-powered Autonomous Food Delivery Vehicle</strong></div>
+    <div class="author">iFlytek Co., Ltd. Student Research Competition</div>
     <div class="periodical"><em>May. 2021–Sep. 2021</em></div>
   </div>
 </div>
@@ -82,9 +82,9 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Computer-Aided Repurposing of Pentostatin: A Novel Target Discovery Research
+    <div class="title"><strong>Computer-Aided Repurposing of Pentostatin: A Novel Target Discovery Research</strong>
 </div>
-    <div class="author"><strong>Chinese Academy of Sciences</strong></div>
+    <div class="author">Chinese Academy of Sciences</div>
     <div class="periodical"><em>Jun. 2019–Sep. 2019</em></div>
   </div>
 </div>
@@ -108,8 +108,8 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Real-world Applications of Machine Learning</div>
-    <div class="author"><strong>Machine Learning Course Projects</strong></div>
+    <div class="title"><strong>Real-world Applications of Machine Learning</strong></div>
+    <div class="author">Machine Learning Course Projects</div>
   </div>
 </div>
 </li>
@@ -123,8 +123,8 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Human-Robot Interaction (HRI) with Multimodality</a></div>
-    <div class="author"><strong>Final Year Project</strong></div>
+    <div class="title"><strong>Human-Robot Interaction (HRI) with Multimodality</strong></div>
+    <div class="author">Final Year Project</div>
   </div>
 </div>
 </li>
