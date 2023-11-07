@@ -25,7 +25,7 @@ I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/
 ## Awards
 - **B.Sc. Honours (Hons) Graduate of University of Manchester**
 
-<h2 id="Research Experience" style="margin: 2px 0px -15px;">Talks</h2>
+<h2 id="Talks" style="margin: 2px 0px -15px;">Research Experience</h2>
 
 <div class="publications">
 <ol class="bibliography">
