@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/cm/" target="_blank"> Computer Science and Mathematics</a> at <a href="https://manchester.ac.uk/" target="_blank"> University of Manchester</a>. I'm aiming to merge AI with healthcare to innovate like AlphaFold. My career was inspired by a desire to impact medical research significantly. At the Chinese Academy of Sciences, I applied deep learning to repurpose a cancer drug, which led to a patent.
+I'm a final year student in <a href="https://studentnet.cs.manchester.ac.uk/ugt/cm/" target="_blank"> Computer Science and Mathematics</a> at <a href="https://manchester.ac.uk/" target="_blank"> University of Manchester</a> and candidate in Computational Biology and Quantitative Genetics at Harvard University. I'm aiming to merge AI with healthcare to innovate like AlphaFold. My career was inspired by a desire to impact medical research significantly. At the Chinese Academy of Sciences, I applied deep learning to repurpose a cancer drug, which led to a patent.
 
 My education has equipped me with skills in programming, data analytics, and machine learning, complemented by leadership and critical thinking abilities. I've applied these in practical projects, such as developing a caloric calculator app with Prof. Riza Batista-Navarro, and advancing antimicrobial prediction research through machine learning techniques.
 
